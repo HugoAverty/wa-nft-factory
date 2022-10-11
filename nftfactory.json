@@ -6368,7 +6368,7 @@
         {
          "columns":25,
          "firstgid":12574,
-         "image":"tilesets\/Cyber\/CYB_Background_1.png",
+         "image":"tilesets\/cyber\/CYB_Background_1.png",
          "imageheight":816,
          "imagewidth":816,
          "margin":0,
@@ -6382,7 +6382,7 @@
         {
          "columns":64,
          "firstgid":13199,
-         "image":"tilesets\/Cyber\/CYB_Car.png",
+         "image":"tilesets\/cyber\/CYB_Car.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -7477,7 +7477,7 @@
         {
          "columns":27,
          "firstgid":17295,
-         "image":"tilesets\/Cyber\/CYB_Cyberlove.png",
+         "image":"tilesets\/cyber\/CYB_Cyberlove.png",
          "imageheight":768,
          "imagewidth":864,
          "margin":0,
@@ -7491,7 +7491,7 @@
         {
          "columns":13,
          "firstgid":17943,
-         "image":"tilesets\/Cyber\/CYB_Gate2.png",
+         "image":"tilesets\/cyber\/CYB_Gate2.png",
          "imageheight":384,
          "imagewidth":432,
          "margin":0,
@@ -7505,7 +7505,7 @@
         {
          "columns":13,
          "firstgid":18099,
-         "image":"tilesets\/Cyber\/CYB_Gate3.png",
+         "image":"tilesets\/cyber\/CYB_Gate3.png",
          "imageheight":384,
          "imagewidth":432,
          "margin":0,
@@ -7519,7 +7519,7 @@
         {
          "columns":13,
          "firstgid":18255,
-         "image":"tilesets\/Cyber\/CYB_Gate4.png",
+         "image":"tilesets\/cyber\/CYB_Gate4.png",
          "imageheight":384,
          "imagewidth":432,
          "margin":0,
@@ -7533,7 +7533,7 @@
         {
          "columns":64,
          "firstgid":18411,
-         "image":"tilesets\/Cyber\/CYB_Misc.png",
+         "image":"tilesets\/cyber\/CYB_Misc.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -8940,7 +8940,7 @@
         {
          "columns":64,
          "firstgid":22507,
-         "image":"tilesets\/Cyber\/CYB_obj_door2.png",
+         "image":"tilesets\/cyber\/CYB_obj_door2.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -8954,7 +8954,7 @@
         {
          "columns":64,
          "firstgid":26603,
-         "image":"tilesets\/Cyber\/CYB_Outside_A1.png",
+         "image":"tilesets\/cyber\/CYB_Outside_A1.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -9225,7 +9225,7 @@
         {
          "columns":64,
          "firstgid":30699,
-         "image":"tilesets\/Cyber\/CYB_Outside_A2_Bright.png",
+         "image":"tilesets\/cyber\/CYB_Outside_A2_Bright.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -9239,7 +9239,7 @@
         {
          "columns":64,
          "firstgid":34795,
-         "image":"tilesets\/Cyber\/CYB_Outside_A3.png",
+         "image":"tilesets\/cyber\/CYB_Outside_A3.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -9253,7 +9253,7 @@
         {
          "columns":64,
          "firstgid":38891,
-         "image":"tilesets\/Cyber\/CYB_Outside_A4.png",
+         "image":"tilesets\/cyber\/CYB_Outside_A4.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -9267,7 +9267,7 @@
         {
          "columns":64,
          "firstgid":42987,
-         "image":"tilesets\/Cyber\/CYB_Outside_A5.png",
+         "image":"tilesets\/cyber\/CYB_Outside_A5.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -9281,7 +9281,7 @@
         {
          "columns":64,
          "firstgid":47083,
-         "image":"tilesets\/Cyber\/CYB_Outside_B.png",
+         "image":"tilesets\/cyber\/CYB_Outside_B.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -9295,7 +9295,7 @@
         {
          "columns":64,
          "firstgid":51179,
-         "image":"tilesets\/Cyber\/CYB_Outside_C.png",
+         "image":"tilesets\/cyber\/CYB_Outside_C.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -9309,7 +9309,7 @@
         {
          "columns":64,
          "firstgid":55275,
-         "image":"tilesets\/Cyber\/CYB_Outside_D.png",
+         "image":"tilesets\/cyber\/CYB_Outside_D.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -9323,7 +9323,7 @@
         {
          "columns":18,
          "firstgid":59371,
-         "image":"tilesets\/Cyber\/CYB_Policedrone.png",
+         "image":"tilesets\/cyber\/CYB_Policedrone.png",
          "imageheight":768,
          "imagewidth":576,
          "margin":0,
@@ -9337,7 +9337,7 @@
         {
          "columns":64,
          "firstgid":59803,
-         "image":"tilesets\/Cyber\/CYB_Sign1.png",
+         "image":"tilesets\/cyber\/CYB_Sign1.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -9480,7 +9480,7 @@
         {
          "columns":64,
          "firstgid":63899,
-         "image":"tilesets\/Cyber\/CYB_Signs2.png",
+         "image":"tilesets\/cyber\/CYB_Signs2.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -10215,7 +10215,7 @@
         {
          "columns":64,
          "firstgid":67995,
-         "image":"tilesets\/Cyber\/CYB_Signs3.png",
+         "image":"tilesets\/cyber\/CYB_Signs3.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -11254,7 +11254,7 @@
         {
          "columns":64,
          "firstgid":72091,
-         "image":"tilesets\/Cyber\/CYB_traffic_signal.png",
+         "image":"tilesets\/cyber\/CYB_traffic_signal.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -11461,7 +11461,7 @@
         {
          "columns":64,
          "firstgid":76187,
-         "image":"tilesets\/Cyber\/CYB_Outside_A2.png",
+         "image":"tilesets\/cyber\/CYB_Outside_A2.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -11475,7 +11475,7 @@
         {
          "columns":64,
          "firstgid":80283,
-         "image":"tilesets\/Cyber\/CYB2_Inside_B.png",
+         "image":"tilesets\/cyber\/CYB2_Inside_B.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -11489,7 +11489,7 @@
         {
          "columns":64,
          "firstgid":84379,
-         "image":"tilesets\/Cyber\/CYB2_Inside_Bv2.png",
+         "image":"tilesets\/cyber\/CYB2_Inside_Bv2.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -11503,7 +11503,7 @@
         {
          "columns":64,
          "firstgid":88475,
-         "image":"tilesets\/Cyber\/CYB2_Inside_C.png",
+         "image":"tilesets\/cyber\/CYB2_Inside_C.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
