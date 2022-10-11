@@ -100,7 +100,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"nftfactory.json#entryRooftop"
                 }],
          "type":"tilelayer",
          "visible":true,
